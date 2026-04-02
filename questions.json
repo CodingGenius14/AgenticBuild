@@ -1,0 +1,189 @@
+{
+  "questions": [
+    {
+      "question": "Which country hosted the 2016 Summer Olympics?",
+      "type": "multiple_choice",
+      "options": ["China", "Brazil", "UK", "Japan"],
+      "answer": "Brazil",
+      "topic": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In basketball, how many points is a shot made from behind the three-point arc worth?",
+      "type": "multiple_choice",
+      "options": ["1", "2", "3", "4"],
+      "answer": "3",
+      "topic": "sports",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The Wimbledon tennis championships are played on clay courts.",
+      "type": "true_false",
+      "answer": "false",
+      "topic": "sports",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which NFL franchise has won the most Super Bowl titles (as of common knowledge)?",
+      "type": "multiple_choice",
+      "options": ["Dallas Cowboys", "Pittsburgh Steelers", "New England Patriots", "San Francisco 49ers"],
+      "answer": "Pittsburgh Steelers",
+      "topic": "sports",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the maximum number of players a soccer team has on the field at once (including the goalkeeper)?",
+      "type": "short_answer",
+      "answer": "11",
+      "topic": "sports",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The Olympic motto is Citius, Altius, Fortius (Faster, Higher, Stronger).",
+      "type": "true_false",
+      "answer": "true",
+      "topic": "sports",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Which artist released the album '1989' (Taylor's Version re-recording context)?",
+      "type": "multiple_choice",
+      "options": ["Adele", "Taylor Swift", "Beyoncé", "Lady Gaga"],
+      "answer": "Taylor Swift",
+      "topic": "pop culture",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The fictional superhero Batman operates primarily in which city?",
+      "type": "short_answer",
+      "answer": "gotham",
+      "topic": "pop culture",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The TV series 'Breaking Bad' is set mainly in which U.S. state?",
+      "type": "multiple_choice",
+      "options": ["Texas", "New Mexico", "Arizona", "Nevada"],
+      "answer": "New Mexico",
+      "topic": "pop culture",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Harry Potter's owl is named Hedwig.",
+      "type": "true_false",
+      "answer": "true",
+      "topic": "pop culture",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which streaming service produced the series 'Stranger Things'?",
+      "type": "multiple_choice",
+      "options": ["Hulu", "Netflix", "Amazon Prime", "Disney+"],
+      "answer": "Netflix",
+      "topic": "pop culture",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the name of the fictional continent where much of 'Game of Thrones' takes place (primary setting)?",
+      "type": "short_answer",
+      "answer": "westeros",
+      "topic": "pop culture",
+      "difficulty": "hard"
+    },
+    {
+      "question": "GDP stands for Gross Domestic Product.",
+      "type": "true_false",
+      "answer": "true",
+      "topic": "economics",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What economic term describes a period of declining GDP for two consecutive quarters?",
+      "type": "short_answer",
+      "answer": "recession",
+      "topic": "economics",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which of the following is most associated with expansionary fiscal policy?",
+      "type": "multiple_choice",
+      "options": ["Raising taxes", "Increasing government spending", "Selling bonds to reduce money supply", "Increasing reserve requirements"],
+      "answer": "Increasing government spending",
+      "topic": "economics",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Opportunity cost is the value of the next-best alternative foregone.",
+      "type": "true_false",
+      "answer": "true",
+      "topic": "economics",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In economics, 'comparative advantage' explains gains from trade even when one country is more productive in every good.",
+      "type": "true_false",
+      "answer": "true",
+      "topic": "economics",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the common term for a sustained increase in the general price level over time?",
+      "type": "short_answer",
+      "answer": "inflation",
+      "topic": "economics",
+      "difficulty": "hard"
+    },
+    {
+      "question": "The first moon landing by NASA astronauts occurred in which year?",
+      "type": "multiple_choice",
+      "options": ["1967", "1969", "1971", "1973"],
+      "answer": "1969",
+      "topic": "political events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "The Berlin Wall fell in 1989.",
+      "type": "true_false",
+      "answer": "true",
+      "topic": "political events",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which treaty established the European Union in its modern form (1992, signed in the namesake Dutch city)?",
+      "type": "multiple_choice",
+      "options": ["Treaty of Rome", "Maastricht Treaty", "Treaty of Lisbon", "Treaty of Versailles"],
+      "answer": "Maastricht Treaty",
+      "topic": "political events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The Good Friday Agreement (1998) is primarily associated with peace in which region?",
+      "type": "short_answer",
+      "answer": "northern ireland",
+      "topic": "political events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "NATO was founded primarily as a collective defense alliance.",
+      "type": "true_false",
+      "answer": "true",
+      "topic": "political events",
+      "difficulty": "medium"
+    },
+    {
+      "question": "The Camp David Accords (1978) were signed between Egypt and which country?",
+      "type": "multiple_choice",
+      "options": ["Jordan", "Israel", "Syria", "Lebanon"],
+      "answer": "Israel",
+      "topic": "political events",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What year did the United Kingdom vote to leave the European Union (referendum)?",
+      "type": "short_answer",
+      "answer": "2016",
+      "topic": "political events",
+      "difficulty": "hard"
+    }
+  ]
+}

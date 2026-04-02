@@ -50,10 +50,6 @@ project/
 └── questions.json   # Human-readable question bank
 ```
 
-> **Note:** Two additional files will be generated at runtime:
-> - A user credentials file (hashed passwords)
-> - A score history file (encoded, non-human-readable)
-
 ---
 
 ## Data Format
